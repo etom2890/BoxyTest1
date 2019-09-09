@@ -1,0 +1,524 @@
+<Results>
+    <GeneralInfo>
+        <Name/>
+        <RunStartTime>2019-04-02 13:55:14</RunStartTime>
+        <Timezone>Eastern Standard Time</Timezone>
+        <OrchestrationToolName>JUnit</OrchestrationToolName>
+        <OrchestrationToolVersion/>
+        <ReportTitle>LeanFT Report</ReportTitle>
+    </GeneralInfo>
+    <ReportNode type="Run">
+        <Data>
+            <Name>Run Results</Name>
+            <Description><![CDATA[ ]]></Description>
+            <StartTime>2019-04-02 13:55:14</StartTime>
+            <Result>Passed</Result>
+            <Links/>
+            <Duration><![CDATA[00:00:06.607]]></Duration>
+            <Extension>
+                <Any>
+                    <IconKey>Run</IconKey>
+                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                </Any>
+            </Extension>
+            <Environment>
+                <OSInfo><![CDATA[Microsoft Windows NT 6.2.9200.0]]></OSInfo>
+                <HostName><![CDATA[DESKTOP-GKF1M59]]></HostName>
+                <NumberOfCores>12</NumberOfCores>
+                <CpuInfo/>
+                <TotalMemory>32504</TotalMemory>
+                <Locale><![CDATA[en-CA]]></Locale>
+                <Timezone>Eastern Standard Time</Timezone>
+                <User><![CDATA[enlil.tom]]></User>
+            </Environment>
+            <TestedApplication/>
+            <ToolName>LeanFT</ToolName>
+            <ToolVersion><![CDATA[14.52]]></ToolVersion>
+        </Data>
+        <ReportNode type="Suite">
+            <Data>
+                <Name>Default Suite</Name>
+                <Description/>
+                <StartTime>2019-04-02 13:55:15</StartTime>
+                <Result>Passed</Result>
+                <Links/>
+                <Duration><![CDATA[00:00:06.398]]></Duration>
+                <Extension>
+                    <Any>
+                        <IconKey>Suite</IconKey>
+                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                    </Any>
+                </Extension>
+            </Data>
+            <ReportNode type="TestContainer">
+                <Data>
+                    <Name>TestLeanFt</Name>
+                    <Description/>
+                    <StartTime>2019-04-02 13:55:15</StartTime>
+                    <Result>Passed</Result>
+                    <Links/>
+                    <Duration><![CDATA[00:00:06.398]]></Duration>
+                    <Extension>
+                        <Any>
+                            <IconKey>TestContainer</IconKey>
+                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                        </Any>
+                    </Extension>
+                </Data>
+                <ReportNode type="Package">
+                    <Data>
+                        <Name><![CDATA[com.company]]></Name>
+                        <Description><![CDATA[Version: N/A]]></Description>
+                        <StartTime>2019-04-02 13:55:15</StartTime>
+                        <Result>Passed</Result>
+                        <Links/>
+                        <Duration><![CDATA[00:00:06.398]]></Duration>
+                        <Extension>
+                            <Any>
+                                <IconKey>Package</IconKey>
+                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                            </Any>
+                        </Extension>
+                    </Data>
+                    <ReportNode type="Class">
+                        <Data>
+                            <Name><![CDATA[com.company.LeanFtTest]]></Name>
+                            <Description/>
+                            <StartTime>2019-04-02 13:55:15</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration><![CDATA[00:00:06.398]]></Duration>
+                            <Extension>
+                                <Any>
+                                    <IconKey>Class</IconKey>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                </Any>
+                            </Extension>
+                        </Data>
+                        <ReportNode type="Test">
+                            <Data>
+                                <Name>test</Name>
+                                <Description/>
+                                <StartTime>2019-04-02 13:55:15</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:06.393]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IconKey>Test</IconKey>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[Browser.launch]]></Name>
+                                    <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>73.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>DESKTOP-GKF1M59</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>DESKTOP-GKF1M59</td></tr></table>]]></Description>
+                                    <StartTime>2019-04-02 13:55:15</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.000]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path/>
+                                                <Operation>launch</Operation>
+                                                <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>73.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>DESKTOP-GKF1M59</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>DESKTOP-GKF1M59</td></tr></table>]]></OperationData>
+                                                <Properties/>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>Browser</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                                <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Chrome")</span>]]></FlowTreeNodeCaption>
+                                                <FlowTreeNodeTooltip><![CDATA[Browser.launch("Chrome")]]></FlowTreeNodeTooltip>
+                                            </CustomUIElements>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[about:blank.navigate]]></Name>
+                                    <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>https://www.boxycharm.com/</td></tr></table>]]></Description>
+                                    <StartTime>2019-04-02 13:55:15</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.016]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[about:blank]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>navigate</Operation>
+                                                <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>https://www.boxycharm.com/</td></tr></table>]]></OperationData>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[type]]></Name>
+                                                        <Value><![CDATA[Chrome]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[version]]></Name>
+                                                        <Value><![CDATA[73.0]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[max concurrent tests]]></Name>
+                                                        <Value><![CDATA[9.007199254740991E15]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[osVersion]]></Name>
+                                                        <Value><![CDATA[10]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[osType]]></Name>
+                                                        <Value><![CDATA[Windows]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[name]]></Name>
+                                                        <Value><![CDATA[DESKTOP-GKF1M59]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[DESKTOP-GKF1M59]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>Browser</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[about:blank]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[SUBSCRIBE.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2019-04-02 13:55:15</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:03.562]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Link</Type>
+                                                        <Name><![CDATA[SUBSCRIBE]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[role]]></Name>
+                                                        <Value><![CDATA[""]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[tagName]]></Name>
+                                                        <Value><![CDATA[A]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[innerText]]></Name>
+                                                        <Value><![CDATA[SUBSCRIBE]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>Link</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Link</Type>
+                                                            <Name><![CDATA[SUBSCRIBE]]></Name>
+                                                            <IconKey>Link</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[Subscribe.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2019-04-02 13:55:19</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.047]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Button</Type>
+                                                        <Name><![CDATA[Subscribe]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[buttonType]]></Name>
+                                                        <Value><![CDATA[button]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[xPath]]></Name>
+                                                        <Value><![CDATA[//DIV[1]/SECTION[1]/DIV[1]/DIV[1]/BUTTON[1]]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[cSSSelector]]></Name>
+                                                        <Value><![CDATA[div#subscribe > div > div:nth-child(2) > div > div:nth-child(1) > section > div > div > button]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[name]]></Name>
+                                                        <Value><![CDATA[        Subscribe    ]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[""]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[className]]></Name>
+                                                        <Value><![CDATA[action tocart primary]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[tagName]]></Name>
+                                                        <Value><![CDATA[BUTTON]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>Button</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Button</Type>
+                                                            <Name><![CDATA[Subscribe]]></Name>
+                                                            <IconKey>Button</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[BoxyCharm.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2019-04-02 13:55:19</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:01.218]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Image</Type>
+                                                        <Name><![CDATA[BoxyCharm]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[type]]></Name>
+                                                        <Value><![CDATA[com.hp.lft.sdk.web.ImageType.LINK]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[alt]]></Name>
+                                                        <Value><![CDATA[BoxyCharm]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[tagName]]></Name>
+                                                        <Value><![CDATA[IMG]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>Image</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Image</Type>
+                                                            <Name><![CDATA[BoxyCharm]]></Name>
+                                                            <IconKey>Image</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[Checkout.close]]></Name>
+                                    <Description/>
+                                    <StartTime>2019-04-02 13:55:20</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.935]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Checkout]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>close</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[type]]></Name>
+                                                        <Value><![CDATA[Chrome]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[version]]></Name>
+                                                        <Value><![CDATA[73.0]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[max concurrent tests]]></Name>
+                                                        <Value><![CDATA[9.007199254740991E15]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[osVersion]]></Name>
+                                                        <Value><![CDATA[10]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[osType]]></Name>
+                                                        <Value><![CDATA[Windows]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[name]]></Name>
+                                                        <Value><![CDATA[DESKTOP-GKF1M59]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[DESKTOP-GKF1M59]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>Browser</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Checkout]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                        </ReportNode>
+                    </ReportNode>
+                </ReportNode>
+            </ReportNode>
+        </ReportNode>
+    </ReportNode>
+</Results>
